@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApplicationA</string>
+    <string name="app_check_internet_connection">No Internet connection! Please try again later.</string>
+
+    <string name="menu_item_option_date">Sort by date</string>
+    <string name="menu_item_option_status">Sort by status</string>
+
+    <string name="tab_test">Test</string>
+    <string name="tab_history">History</string>
+    <string name="hint_link">Image link</string>
+    <string name="btn_ok">OK!</string>
+</resources>

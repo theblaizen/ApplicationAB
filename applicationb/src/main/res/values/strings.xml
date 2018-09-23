@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApplicationB</string>
+    <string name="err_msg">приложение В не является самостоятельным приложением и будет закрыто через %s секунд</string>
+</resources>
